@@ -30,5 +30,5 @@ Currently, I am preparing for my Master's degree in Artificial Intelligence, res
 
 ### 📫 Let's Connect
 - 💬 **Ask me about:** Full-stack development with Next.js, starting a business in Korea, or life as a GKS scholar.
-- 💼 **LinkedIn:** [Check out my profile](https://www.linkedin.com/in/amuujin-a-015887233/)
+- 💼 **LinkedIn:** [Check out my profile](https://www.linkedin.com/in/amuujin/)
 - ⚡ **Fun fact:** I also ran a meat distribution business called *Bars Mah Market* while studying engineering!
